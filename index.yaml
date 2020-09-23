@@ -18,7 +18,7 @@ entries:
     sources:
     - https://github.com/kubernetes/ingress-nginx
     urls:
-    - https://yschoe2015.github.io/helmchart/stable/ingress-nginx.tgz
+    - https://danielpark7.github.io/demo/demo.tgz
     version: 2.12.1
   demo:
   - apiVersion: v2
