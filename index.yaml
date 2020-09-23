@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   demo:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-09-23T22:26:48.2635903+09:00"
+    appVersion: 1.0.0
+    created: "2020-09-23T22:58:17.3317626+09:00"
     description: A Helm chart for Kubernetes
-    digest: c0d1f0bda5d51bb9622c710b93cedb65c66262bde28bf5969c86a5bb859f4ffa
+    digest: a986ab597c390e9c84ea889589617916fe91e0b69945390f164e9acd2eadf7e6
     name: demo
     type: application
     urls:
     - https://danielpark7.github.io/demo/demo.tgz
-    version: 0.1.0
-generated: "2020-09-23T22:26:48.2566653+09:00"
+    version: 1.0.0
+generated: "2020-09-23T22:58:17.3288508+09:00"
