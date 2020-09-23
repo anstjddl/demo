@@ -1,0 +1,34 @@
+apiVersion: v1
+entries:
+  ingress-nginx:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2020-09-23T22:26:48.2596542+09:00"
+    description: demo
+    digest: 67304befe7756c90cb3b3029bbd85581b1fbefa6d9f7bd77cb681269929e9e22
+    home: https://github.com/kubernetes/ingress-nginx
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
+    keywords:
+    - ingress
+    - nginx
+    kubeVersion: '>=1.10.0-0'
+    maintainers:
+    - name: ChiefAlexander
+    name: ingress-nginx
+    sources:
+    - https://github.com/kubernetes/ingress-nginx
+    urls:
+    - https://yschoe2015.github.io/helmchart/stable/ingress-nginx.tgz
+    version: 2.12.1
+  demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-09-23T22:26:48.2635903+09:00"
+    description: A Helm chart for Kubernetes
+    digest: c0d1f0bda5d51bb9622c710b93cedb65c66262bde28bf5969c86a5bb859f4ffa
+    name: demo
+    type: application
+    urls:
+    - https://github.com/DanielPark7/demo/blob/master/demo.tgz
+    version: 0.1.0
+generated: "2020-09-23T22:26:48.2566653+09:00"
