@@ -19,3 +19,6 @@ spec:
         image: redii.net:5003/dep/demo:1.0.0
         ports:
         - containerPort: 8080
+      imagePullSecrets:
+        - name: redii
+ 
