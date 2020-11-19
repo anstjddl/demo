@@ -9,6 +9,6 @@ entries:
     name: demo test
     type: application
     urls:
-    - https://danielpark7.github.io/demo/demo.tgz
+    - https://bd1978.github.io/jupyter-notebook/r-notebook.tgz
     version: 1.0.1
 generated: "2020-09-27T16:14:21.6933805+09:00"
